@@ -1,7 +1,7 @@
 
 # NexusIndex #CIKM 2024
-# We Propose NexusIndex framework integrates advanced NLP models with a neural network classifier, providing a comprehensive system for fake news detection.
-# NexusIndexModel, which you describe as a neural network with three fully connected layers and sigmoid activation
+ We Propose NexusIndex framework integrates advanced NLP models with a neural network classifier, providing a comprehensive system for fake news detection.
+ NexusIndexModel, which you describe as a neural network with three fully connected layers and sigmoid activation
 
 This folder contains all the necessary implementation.
 # Dataset
