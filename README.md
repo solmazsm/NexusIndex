@@ -1,9 +1,11 @@
 
 # NexusIndex #CIKM 2024
- We Propose NexusIndex framework integrates advanced NLP models with a neural network classifier, providing a comprehensive system for fake news detection.
- NexusIndexModel, which you describe as a neural network with three fully connected layers and sigmoid activation
-
 This folder contains all the necessary implementation.
+
+ We Propose NexusIndex framework integrates advanced NLP models with a neural network classifier, providing a comprehensive system for fake news detection.
+ NexusIndexModel, which you describe as a neural network with three fully connected layers and sigmoid activation.
+
+
 # Dataset
 NexusIndex Dataset: The NexusIndex dataset is a collection of news articles that have been indexed using vector embeddings for efficient search and retrieval. It contains a vast array of articles spanning various topics and sources, providing researchers with a rich corpus for exploration and analysis.
 
