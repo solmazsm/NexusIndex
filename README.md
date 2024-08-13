@@ -1,5 +1,5 @@
 
-# NexusIndex #CIKM 2024
+# NexusIndex
 This folder contains all the necessary implementation.
 
  We Propose NexusIndex framework integrates advanced NLP models with a neural network classifier, providing a comprehensive system for fake news detection.
