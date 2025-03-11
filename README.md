@@ -8,7 +8,7 @@ NexusIndex is an advanced fake news detection framework that integrates multimod
 
 ## Features
 
-- **Multimodal Embedding**: Utilizes Transformer-based models (BERT, RoBERTa, GPT) for text embeddings and MobileNet V3 for image embeddings.
+- **Multimodal Embedding**: Utilizes Transformer-based models for text embeddings and MobileNet V3 for image embeddings.
 - **FAISSNexusIndex Layer**: Efficient high-dimensional similarity retrieval integrated into the learning process.
 - **Adaptive Semi-Supervised Learning**: Incorporates pseudo-labeling and Local Variance Filtering (LVF) to adapt to new misinformation.
 - **Real-Time Detection**: Optimized for fast, real-time similarity searches and fake news detection.
