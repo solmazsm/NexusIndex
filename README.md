@@ -1,6 +1,6 @@
-## NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection
+### NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection
 
-## This research work has been submitted to  <a href="https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0"> IEEE MIPR 2025 </a>
+### This research work has been submitted to  <a href="https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0"> IEEE MIPR 2025 </a>
 
 ## Overview
 
