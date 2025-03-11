@@ -28,7 +28,7 @@ We evaluate NexusIndex on several datasets, including:
 Politifact: A well-known dataset for fact-checking. <a href="https://github.com/solmazsm/FakeNewsNet-data">Politifact</a>
 
 GossipCop: A dataset containing news articles, labeled as real or fake.<a href="https://github.com/solmazsm/FakeNewsNet-data">GossipCop</a>
-huggingface: The GossipCop dataset is available on Hugging Face <a "https://huggingface.co/datasets/osusume/Gossipcop/viewer/default/train?row=27&views%5B%5D=train">huggingface</a>
+huggingface: The GossipCop dataset is available on Hugging Face <a href="https://huggingface.co/datasets/osusume/Gossipcop/viewer/default/train?row=27&views%5B%5D=train">huggingface</a>
 ABC News: A large-scale dataset used for semi-supervised learning with pseudo-labeling.
 WELFake: A text-based dataset containing real and fake news articles.
 The datasets are used to train and test the fake news detection model.
