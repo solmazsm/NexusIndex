@@ -51,7 +51,11 @@ There are 78098 data entries in csv file out of which only 72134 entries are acc
 NexusIndex evaluates the model performance using several metrics:
 
 Accuracy: The percentage of correctly classified news articles.
+
 Precision: The percentage of true positive predictions among all positive predictions.
+
 Recall: The percentage of true positive predictions among all actual positive instances.
+
 F1-Score: The harmonic mean of Precision and Recall.
+
 AUC: Area under the receiver operating characteristic curve
