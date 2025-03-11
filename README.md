@@ -28,7 +28,7 @@ We evaluate NexusIndex on several datasets, including:
 Politifact: A well-known dataset for fact-checking. <a href="https://github.com/solmazsm/FakeNewsNet-data">Politifact</a>
 
 GossipCop: A dataset containing news articles, labeled as real or fake.<a href="https://github.com/solmazsm/FakeNewsNet-data">GossipCop</a>
-<hr>
+
 huggingface: The GossipCop dataset is available on Hugging Face <a href="https://huggingface.co/datasets/osusume/Gossipcop/viewer/default/train?row=27&views%5B%5D=train">huggingface</a>
 ABC News: A large-scale dataset used for semi-supervised learning with pseudo-labeling.
 WELFake: A text-based dataset containing real and fake news articles.
@@ -39,7 +39,7 @@ The datasets are used to train and test the fake news detection model.
 To enhance the performance of fake news detection, we propose integrating a threshold-based pseudolabeling strategy within the NexusIndex framework. This approach begins by training the initial model on a labeled dataset, followed by
 applying the trained model to predict probabilities on an unlabeled
 dataset.
-<br>
+
 <a href="https://huggingface.co/datasets/davanstrien/WELFake">WELFake:</a> The WELFake dataset consists of 72,134 news articles, with 35,028 classified as real and 37,106 as fake. This dataset was created by merging four well-known news datasets: Kaggle, McIntire, Reuters, and BuzzFeed Political. The goal of this merger was to mitigate the risk of overfitting in machine learning classifiers and to offer a larger corpus of text data to enhance the training process for fake news detection models.
 
 Dataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Label (0 = fake and 1 = real).
