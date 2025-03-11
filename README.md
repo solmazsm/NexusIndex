@@ -21,3 +21,26 @@ Dataset contains four columns: Serial number (starting from 0); Title (about the
 There are 78098 data entries in csv file out of which only 72134 entries are accessed as per the data frame.
 
 
+
+
+# NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection
+
+## Overview
+
+NexusIndex is an advanced fake news detection framework that integrates multimodal embeddings, vectorized proximity layers, and the FAISSNexusIndex layer to significantly enhance retrieval efficiency and detection accuracy. It leverages Transformer-based models for text and MobileNet V3 for image analysis, combined with an adaptive semi-supervised learning approach that dynamically refines the model with evolving misinformation.
+
+## Features
+
+- **Multimodal Embedding**: Utilizes Transformer-based models (BERT, RoBERTa, GPT) for text embeddings and MobileNet V3 for image embeddings.
+- **FAISSNexusIndex Layer**: Efficient high-dimensional similarity retrieval integrated into the learning process.
+- **Adaptive Semi-Supervised Learning**: Incorporates pseudo-labeling and Local Variance Filtering (LVF) to adapt to new misinformation.
+- **Real-Time Detection**: Optimized for fast, real-time similarity searches and fake news detection.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/NexusIndex.git
+   cd NexusIndex
+
