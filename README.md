@@ -18,7 +18,7 @@ NexusIndex is an advanced fake news detection framework that integrates multimod
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NexusIndex.git
+   git clone https://github.com/solmazsm/NexusIndex.git
    cd NexusIndex
 
 # Dataset
