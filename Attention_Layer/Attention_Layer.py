@@ -1,4 +1,8 @@
 # Attention Layer Proposed
+;==========================================
+; Title: NexusIndexModel with a Novel Attention Mechanism for Multimodal Fake News Detection
+; Author: Solmaz Seyed Monir
+;==========================================
 class AttentionLayer(nn.Module):
     def __init__(self, input_dim):
         super(AttentionLayer, self).__init__()
