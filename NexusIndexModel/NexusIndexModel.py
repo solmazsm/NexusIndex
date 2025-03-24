@@ -1,3 +1,7 @@
+;==========================================
+; Title: NexusIndexModel
+; Author: Solmaz Seyed Monir
+;==========================================
 class NexusIndexModel(nn.Module):
     def __init__(self, input_size):
         super(NexusIndexModel, self).__init__()
