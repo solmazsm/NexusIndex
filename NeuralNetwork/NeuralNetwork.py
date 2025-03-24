@@ -1,3 +1,7 @@
+;==========================================
+; Title: NexusIndexModel-NeuralNetwork
+; Author: Solmaz Seyed Monir
+;==========================================
 class NeuralNetwork(nn.Module):
     def __init__(self, input_size):
         super(NeuralNetwork, self).__init__()
