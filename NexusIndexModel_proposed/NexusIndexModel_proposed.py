@@ -1,4 +1,8 @@
 # NexusIndexModel proposed
+;==========================================
+; Title: A Novel NexusIndexModel for Fake News Detection
+; Author: Solmaz Seyed Monir
+;==========================================
 class NexusIndexModel(nn.Module):
     def __init__(self, input_dim):
         super(NexusIndexModel, self).__init__()
