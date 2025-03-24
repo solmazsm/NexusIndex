@@ -1,3 +1,7 @@
+;==========================================
+; Title: NexusIndexModel-FAISSLayer
+; Author: Solmaz Seyed Monir
+;==========================================
 class FAISSLayer(nn.Module):
     def __init__(self, d):
         super(FAISSLayer, self).__init__()
