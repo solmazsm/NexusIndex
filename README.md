@@ -1,6 +1,12 @@
-### NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection
+## NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection  
+**Accepted at [IEEE MIPR 2025](https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0)**
 
-### This research work has been submitted to  <a href="https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0"> IEEE MIPR 2025 </a>
+## Authors  
+- [Solmaz Seyed Monir](https://students.washington.edu/solmazsm/), University of Washington  
+- [Dr. Dongfang Zhao](https://hpdic.github.io/), University of Washington  
+- [Dr. Yan Bai](https://directory.tacoma.uw.edu/employee/yanb), University of Washington  
+
+---
 
 ## Overview
 
