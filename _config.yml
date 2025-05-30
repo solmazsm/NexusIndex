@@ -1,3 +1,4 @@
-footer.site-footer {
-  display: none;
-}
+title: NexusIndex
+theme: minima
+sass:
+  style: compressed
