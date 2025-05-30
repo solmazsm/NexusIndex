@@ -4,5 +4,10 @@ description: ""
 
 sass:
   style: compressed
+
 include:
   - assets/css/main.scss
+
+minima:
+  social_links: []
+  header_pages: []
