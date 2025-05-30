@@ -4,6 +4,5 @@ description: ""
 
 sass:
   style: compressed
-
 include:
   - assets/main.scss
