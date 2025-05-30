@@ -66,6 +66,8 @@ NexusIndex evaluates the model performance using several metrics:
 - **Recall**: The percentage of true positive predictions among all actual positive instances.
 - **F1-Score**: The harmonic mean of Precision and Recall.
 - **AUC**: Area under the receiver operating characteristic curve.
+
+  
   ---
 
 © 2025 Solmaz Seyed Monir. All rights reserved.
