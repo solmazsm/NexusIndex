@@ -2,3 +2,6 @@ title: NexusIndex
 theme: minima
 description: ""
 
+sass:
+  style: compressed
+
