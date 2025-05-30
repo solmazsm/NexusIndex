@@ -1,2 +1,3 @@
-title: NexusIndex
-theme: minima
+footer.site-footer {
+  display: none;
+}
