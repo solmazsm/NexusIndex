@@ -1,3 +1,9 @@
+<style>
+  .page-header {
+    background: linear-gradient(to right, #6a11cb, #2575fc); 
+  }
+</style>
+
 ---
 layout: default
 title: NexusIndex
