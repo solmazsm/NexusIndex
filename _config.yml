@@ -1,9 +1,5 @@
 title: NexusIndex
-theme: minima
+theme: jekyll-theme-cayman
 description: ""
 
-sass:
-  style: compressed
 
-include:
-  - assets/css/main.scss
