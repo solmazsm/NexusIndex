@@ -1,5 +1,26 @@
-## NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection with Dynamic Indexing and Retrieval 
-**Accepted at [IEEE MIPR 2025](https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0)**
+## NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection with Dynamic Indexing and Retrieval  
+
+
+<p align="center">
+  <a href="https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0">
+    <img src="https://img.shields.io/badge/Published%20in%20IEEE%20MIPR%202025-0033A0?style=for-the-badge&labelColor=0033A0&color=0033A0&logoColor=white" alt="IEEE MIPR 2025 Badge"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://solmazsm.github.io/NexusIndex/" target="_blank">
+    <img height="32" src="https://img.icons8.com/ios-filled/50/4a90e2/internet.png" alt="VecLSTM Project"/>
+  </a>
+
+  <a href="https://github.com/solmazsm/NexusIndex/">
+    <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://arxiv.org/abs/2410.18294">
+    <img src="https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white" />
+  </a>
+</p>
+
+
+
 
 ## Authors  
 - [Solmaz Seyed Monir](https://students.washington.edu/solmazsm/), University of Washington  
