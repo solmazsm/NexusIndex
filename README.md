@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/Published%20in%20IEEE%20MIPR%202025-0033A0?style=for-the-badge&labelColor=0033A0&color=0033A0&logoColor=white" alt="IEEE MIPR 2025 Badge"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://solmazsm.github.io/NexusIndex/" target="_blank">
     <img height="32" src="https://img.icons8.com/ios-filled/50/4a90e2/internet.png" alt="VecLSTM Project"/>
@@ -18,8 +19,12 @@
   </a>
 </p>  
 
+<p align="center">
+  <b>Research Group (HPDIC Lab), University of Washington</b>
+</p>
+
 ## Authors  
-- [Solmaz Seyed Monir](https://students.washington.edu/solmazsm/), University of Washington  
+- [Solmaz Seyed Monir](https://students.washington.edu/solmazsm/), University of Washington 
 - [Dr. Dongfang Zhao](https://hpdic.github.io/), University of Washington  
 - [Dr. Yan Bai](https://directory.tacoma.uw.edu/employee/yanb), University of Washington  
 
@@ -81,5 +86,20 @@ NexusIndex evaluates the model performance using several metrics:
   
   ---
 
-© 2025 Solmaz Seyed Monir. All rights reserved.
+  ## Citation
+
+
+```bibtex
+@INPROCEEDINGS{11225937,
+  author={Monir, Solmaz Seyed and Zhao, Dongfang and Bai, Yan},
+  booktitle={2025 IEEE 8th International Conference on Multimedia Information Processing and Retrieval (MIPR)}, 
+  title={NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection with Dynamic Indexing and Retrieval}, 
+  year={2025},
+  pages={62-68},
+  keywords={Multimedia misinformation; fake news detection; multimodal learning; vector indexing; similarity-based retrieval; semi-supervised learning; NexusIndex; FAISSNexusIndex; NexusIndexModel II},
+  doi={10.1109/MIPR67560.2025.00018}
+}
+
+
+© 2025 NexusIndex | HPDIC Lab
 
