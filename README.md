@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://sites.google.com/view/mipr-2025/calls/call-for-papers?authuser=0">
+  <a href="https://ieeexplore.ieee.org/document/11225937">
     <img src="https://img.shields.io/badge/Published%20in%20IEEE%20MIPR%202025-0033A0?style=for-the-badge&labelColor=0033A0&color=0033A0&logoColor=white" alt="IEEE MIPR 2025 Badge"/>
   </a>
 </p>
