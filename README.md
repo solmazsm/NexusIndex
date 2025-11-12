@@ -86,9 +86,7 @@ NexusIndex evaluates the model performance using several metrics:
   
   ---
 
-  ## Citation
-
-
+# Citation
 ```bibtex
 @INPROCEEDINGS{11225937,
   author={Monir, Solmaz Seyed and Zhao, Dongfang and Bai, Yan},
@@ -100,6 +98,7 @@ NexusIndex evaluates the model performance using several metrics:
   doi={10.1109/MIPR67560.2025.00018}
 }
 ```
+
 
 © 2025 NexusIndex | HPDIC Lab
 
