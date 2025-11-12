@@ -98,7 +98,12 @@ NexusIndex evaluates the model performance using several metrics:
   doi={10.1109/MIPR67560.2025.00018}
 }
 ```
+<p align="left">
+  <a href="https://doi.org/10.5281/zenodo.15580713">
+    <img src="https://img.shields.io/badge/Zenodo%20DOI-10.5281%2Fzenodo.15580713-4072B5?style=for-the-badge&labelColor=4072B5&color=4072B5&logo=zenodo&logoColor=white" alt="Zenodo DOI Badge"/>
+  </a>
+</p>
 
 
-© 2025 NexusIndex | HPDIC Lab
+© 2025 NexusIndex | HPDIC Lab 
 
