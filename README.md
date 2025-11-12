@@ -99,7 +99,7 @@ NexusIndex evaluates the model performance using several metrics:
   keywords={Multimedia misinformation; fake news detection; multimodal learning; vector indexing; similarity-based retrieval; semi-supervised learning; NexusIndex; FAISSNexusIndex; NexusIndexModel II},
   doi={10.1109/MIPR67560.2025.00018}
 }
-
+```
 
 © 2025 NexusIndex | HPDIC Lab
 
