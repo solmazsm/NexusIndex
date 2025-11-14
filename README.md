@@ -5,6 +5,12 @@
     <img src="https://img.shields.io/badge/Published%20in%20IEEE%20MIPR%202025-0033A0?style=for-the-badge&labelColor=0033A0&color=0033A0&logoColor=white" alt="IEEE MIPR 2025 Badge"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://students.washington.edu/solmazsm/"><strong>Solmaz Seyed Monir</strong></a>, 
+  <a href="https://www.cs.washington.edu/people/faculty/zhao-dongfang/"><strong>Dr. Dongfang Zhao</strong></a>,
+  <a href="https://directory.tacoma.uw.edu/employee/yanb"><strong>Dr. Yan Bai</strong></a>
+</p>
+
 
 <p align="center">
   <a href="https://solmazsm.github.io/NexusIndex/" target="_blank">
@@ -20,18 +26,15 @@
 </p>  
 
 <p align="center">
-  <b>Research Group (HPDIC Lab), University of Washington</b>
+   <b>Research Group (HPDIC Lab), University of Washington</b>
 </p>
 
-## Authors  
-- [Solmaz Seyed Monir](https://students.washington.edu/solmazsm/), University of Washington 
-- [Dr. Dongfang Zhao](https://hpdic.github.io/), University of Washington  
-- [Dr. Yan Bai](https://directory.tacoma.uw.edu/employee/yanb), University of Washington  
 
 ---
 
 
-### ![NexusIndex](https://hits.sh/github.com/solmazsm/VecLSTM.svg?label=%20&color=0e75b6) Overview 
+### ![NexusIndex](https://hits.sh/github.com/solmazsm/VecLSTM.svg?label=%20&color=0e75b6)  Overview  
+
 NexusIndex is an advanced fake news detection framework that integrates multimodal embeddings, vectorized proximity layers, and the FAISSNexusIndex layer to significantly enhance retrieval efficiency and detection accuracy. It leverages Transformer-based models for text and MobileNet V3 for image analysis, combined with an adaptive semi-supervised learning approach that dynamically refines the model with evolving misinformation.
 
 ## Features
