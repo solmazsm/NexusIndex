@@ -30,8 +30,8 @@
 
 ---
 
-## Overview
 
+### ![NexusIndex](https://hits.sh/github.com/solmazsm/VecLSTM.svg?label=%20&color=0e75b6) Overview 
 NexusIndex is an advanced fake news detection framework that integrates multimodal embeddings, vectorized proximity layers, and the FAISSNexusIndex layer to significantly enhance retrieval efficiency and detection accuracy. It leverages Transformer-based models for text and MobileNet V3 for image analysis, combined with an adaptive semi-supervised learning approach that dynamically refines the model with evolving misinformation.
 
 ## Features
