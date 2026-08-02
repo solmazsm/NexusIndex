@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://students.washington.edu/solmazsm/"><strong>Solmaz Seyed Monir</strong></a>, 
-  <a href="https://www.cs.washington.edu/people/faculty/zhao-dongfang/"><strong>Dr. Dongfang Zhao</strong></a>,
+  <a href="https://scholar.google.com/citations?user=eRaZHewAAAAJ&hl=en"><strong>Dr. Dongfang Zhao</strong></a>,
   <a href="https://directory.tacoma.uw.edu/employee/yanb"><strong>Dr. Yan Bai</strong></a>
 </p>
 
