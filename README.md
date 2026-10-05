@@ -22,8 +22,8 @@
   </a>
   <a href="https://arxiv.org/abs/2410.18294">
     <img src="https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white" />
- <a href="NexusIndex_Presentation_IEEE_MIPR_2025.pdf">
-  <img src="https://img.shields.io/badge/Slides-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Slides" />
+ <a href="docs/NexusIndex_Presentation_IEEE_MIPR_2025.pdf" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Slides-PDF-6F42C1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Slides" />
 </a>
 </p>  
 
