@@ -1,16 +1,17 @@
 
-## NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection with Dynamic Indexing and Retrieval  
+## NexusIndex: A Self-Optimizing Multimodal Framework for Fake News Detection with Dynamic Indexing and Retrieval
+
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/11225937">
     <img src="https://img.shields.io/badge/Published%20in%20IEEE%20MIPR%202025-0033A0?style=for-the-badge&labelColor=0033A0&color=0033A0&logoColor=white" alt="IEEE MIPR 2025 Badge"/>
   </a>
 </p>
+
 <p align="center">
-  <a href="https://students.washington.edu/solmazsm/"><strong>Solmaz Seyed Monir</strong></a>, 
+  <a href="https://students.washington.edu/solmazsm/"><strong>Solmaz Seyed Monir</strong></a>,
   <a href="https://faculty.washington.edu/dzhao/"><strong>Dr. Dongfang Zhao</strong></a>,
   <a href="https://directory.tacoma.uw.edu/employee/yanb"><strong>Dr. Yan Bai</strong></a>
 </p>
-
 
 <p align="center">
   <a href="https://solmazsm.github.io/NexusIndex/" target="_blank">
@@ -18,24 +19,24 @@
   </a>
 
   <a href="https://github.com/solmazsm/NexusIndex/">
-    <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
   </a>
 
   <a href="https://arxiv.org/abs/2410.18294">
-    <img src="https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white" />
+    <img src="https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
 
   <a href="docs/NexusIndex_Presentation_IEEE_MIPR_2025.pdf" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Slides-PDF-6F42C1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Slides" />
+    <img src="https://img.shields.io/badge/Slides-PDF-6F42C1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Slides"/>
   </a>
 </p>
 
 <p align="center">
-   <b>Research Group (HPDIC Lab), University of Washington</b>
+  <b>Research Group (HPDIC Lab), University of Washington</b>
 </p>
 
-
 ---
+
 
 
 ### ![NexusIndex](https://hits.sh/github.com/solmazsm/VecLSTM.svg?label=%20&color=0e75b6)  Overview  
