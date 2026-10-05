@@ -23,6 +23,9 @@
   <a href="https://arxiv.org/abs/2410.18294">
     <img src="https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white" />
   </a>
+    <a href="NexusIndex_Presentation_IEEE_MIPR_2025.pdf">
+    <img src="https://img.shields.io/badge/Slides-PPTX-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Slides" />
+  </a>
 </p>  
 
 <p align="center">
