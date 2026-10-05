@@ -7,25 +7,28 @@
 </p>
 <p align="center">
   <a href="https://students.washington.edu/solmazsm/"><strong>Solmaz Seyed Monir</strong></a>, 
-  <a href="https://scholar.google.com/citations?user=eRaZHewAAAAJ&hl=en"><strong>Dr. Dongfang Zhao</strong></a>,
+  <a href="https://faculty.washington.edu/dzhao/"><strong>Dr. Dongfang Zhao</strong></a>,
   <a href="https://directory.tacoma.uw.edu/employee/yanb"><strong>Dr. Yan Bai</strong></a>
 </p>
 
 
 <p align="center">
   <a href="https://solmazsm.github.io/NexusIndex/" target="_blank">
-    <img height="32" src="https://img.icons8.com/ios-filled/50/4a90e2/internet.png" alt="VecLSTM Project"/>
+    <img height="32" src="https://img.icons8.com/ios-filled/50/4a90e2/internet.png" alt="NexusIndex Project"/>
   </a>
 
   <a href="https://github.com/solmazsm/NexusIndex/">
     <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://arxiv.org/abs/2410.18294">
     <img src="https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white" />
- <a href="docs/NexusIndex_Presentation_IEEE_MIPR_2025.pdf" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Slides-PDF-6F42C1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Slides" />
-</a>
-</p>  
+  </a>
+
+  <a href="docs/NexusIndex_Presentation_IEEE_MIPR_2025.pdf" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Slides-PDF-6F42C1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Slides" />
+  </a>
+</p>
 
 <p align="center">
    <b>Research Group (HPDIC Lab), University of Washington</b>
