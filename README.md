@@ -84,6 +84,14 @@ Dataset contains four columns: Serial number (starting from 0); Title (about the
 
 There are 78098 data entries in csv file out of which only 72134 entries are accessed as per the data frame.
 
+### ABCNews Labeled Dataset
+
+The ABCNews subset used in NexusIndex contains 1,000 manually verified labeled headlines.
+
+For details about the labeling and verification procedure, see:
+[datasets/README.md](datasets/README.md)
+
+
 # Evaluation Metrics
 NexusIndex evaluates the model performance using several metrics:
 
